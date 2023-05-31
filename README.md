@@ -6,3 +6,4 @@ List of problems done:
 3. Design Hash Map (https://leetcode.com/problems/design-hashmap/)
 4. Remove Comments (https://leetcode.com/problems/remove-comments/)
 5. Valid Perfect Sqaure (https://leetcode.com/problems/valid-perfect-square/)
+6. Find Pivot Index (https://leetcode.com/problems/find-pivot-index/)
